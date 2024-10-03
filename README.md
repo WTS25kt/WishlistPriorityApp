@@ -22,6 +22,6 @@ WishListApp/
 │   ├── InterfaceController.swift
 │   └── Assets.xcassets
 └── Backend/
-    ├── fetch_product_details.py  # OpenAI APIとの連携用スクリプト
+    ├── app.py # fetch_product_details.pyだったけど変更。 OpenAI APIとの連携用スクリプト
     └── requirements.txt  # Python依存パッケージリスト
 ```
